@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: test-project-api
+  name: test-api
   #description: UMS API implemented by UMS Core
   
 spec:
