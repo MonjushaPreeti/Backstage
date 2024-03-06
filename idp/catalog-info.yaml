@@ -1,16 +1,14 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: etesoro-backend
+  name: test-project-backend
   #annotations:
     #backstage.io/techdocs-ref: url:https://github.com/backstage123/node-repo/tree/master
     
 spec:
   type: service
-  owner: user:default/mannaneng
-  lifecycle: production
-  system: etesoro
-  #dependsOn: 
-    #- component:flowcraft-backend
-  consumesApis: 
-    - api:etesoro-api
+  owner: user:default/guest
+  lifecycle: experimental
+  system: test-system
+  providesApis: 
+    - api:test-api
