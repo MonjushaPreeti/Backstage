@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
-  name: etesoro-database
+  name: test-project-database-backend
   description: "ip:10.11.201.55:1525"
 spec:
   type: database
-  owner: user:default/mannaneng
-  system: etesoro
+  owner: user:default/guest
+  system: test-system
   
