@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: etesoro-api
+  #description: UMS API implemented by UMS Core
+  
+spec:
+  type: openapi
+  lifecycle: production
+  owner: user:default/mannaneng
+  system: eTesoro
+  definition: |
+    openapi: "3.0.0"
+    info:
+      version: 1.0.0
+      title: eTesoro API
+    servers:
+      - url: http://10.11.201.43:82

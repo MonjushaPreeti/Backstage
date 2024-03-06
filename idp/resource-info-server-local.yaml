@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: etesoro-local-server
+  description: "On-premise server for test; server-ip:10.11.201.55:1525"
+spec:
+  type: local-server
+  owner: user:default/mannaneng
+  system: etesoro
+  

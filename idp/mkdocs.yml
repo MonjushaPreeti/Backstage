@@ -1,0 +1,8 @@
+site_name: 'eTesoro Documents'
+edit_uri: https://dev.azure.com/erainfotechbd/Enterprise%20Solutions/_git/tmsbe?path=/idp/docs/
+
+nav:
+  - Home: index.md
+  
+plugins:
+  - techdocs-core
