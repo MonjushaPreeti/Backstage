@@ -7,8 +7,7 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: user:default/abcd
-  #owner: guest
+  owner: user:default/guest
   system: test-system
   definition: |
     openapi: "3.0.0"
