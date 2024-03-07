@@ -1,5 +1,5 @@
 site_name: test-project-backstage
-edit_uri: https://github.com/MonjushaPreeti/Backstage/tree/main/idp/docs
+edit_uri: https://github.com/MonjushaPreeti/Backstage/blob/main/idp/docs
 
 nav:
   - Home: index.md
