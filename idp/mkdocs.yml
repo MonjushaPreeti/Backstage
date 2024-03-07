@@ -1,5 +1,5 @@
 site_name: 'eTesoro Documents'
-edit_uri: https://dev.azure.com/erainfotechbd/Enterprise%20Solutions/_git/tmsbe?path=/idp/docs/
+edit_uri: https://github.com/MonjushaPreeti/Backstage/tree/main/idp/docs/
 
 nav:
   - Home: index.md
