@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test-project-backend
-  #annotations:
-    #backstage.io/techdocs-ref: url:https://github.com/backstage123/node-repo/tree/master
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/MonjushaPreeti/Backstage/tree/main
     
 spec:
   type: service
