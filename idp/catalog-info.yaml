@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: test-project-backend
   annotations:
-    #backstage.io/techdocs-ref: url:https://github.com/MonjushaPreeti/Backstage/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/MonjushaPreeti/Backstage/tree/main
     
 spec:
   type: service
